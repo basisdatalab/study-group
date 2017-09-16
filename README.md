@@ -28,15 +28,20 @@ Deadline: **Selasa, 19 September 2017 pk 19.19**
 	-  Baris pertama: Get request url nya
 	-  Baris kedua: Hasil print di browsernya
  > 1. /route_biasa
-	 > Hello world!
+	 
+	 Hello world!
  > 2. /ini_juga_route_biasa
-	 > Hello kalian!
+	
+	Hello kalian!
  > 3. /route_kedua/ini_route_biasa
-	> Ini juga Hello world!
+	
+	Ini juga Hello world!
 > 4. a. /route_ketiga/foo bar
+	
 	Heelllooo! foo bar
-	b. /route_ketiga/paijooke
+> 4. b. /route_ketiga/paijooke
+	
 	Heellooo! paijooke
 > 5. /route_keempat/user?nama=Basisdata Laboratory
-	> Welcome to route empat, Basisdata Laboratory
-
+	
+	Welcome to route empat, Basisdata Laboratory
