@@ -15,8 +15,9 @@ Deadline: **Selasa, 19 September 2017 pk 19.19**
  > ref: http://expressjs.com/en/starter/basic-routing.html
  
  3. Pahami *Route parameters*
- > req.params http://expressjs.com/en/4x/api.html#req.params
- > req.query http://expressjs.com/en/4x/api.html#req.query
+ > req.params: http://expressjs.com/en/4x/api.html#req.params
+ 
+ > req.query: http://expressjs.com/en/4x/api.html#req.query
  
  4. Buat 5 *routes* yang berbeda, dengan spesifikasi:
 	 1. Route biasa
