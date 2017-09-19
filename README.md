@@ -34,7 +34,7 @@ Deadline: **Selasa, 19 September 2017 pk 19.19**
  > 2. /ini_juga_route_biasa
 	
 	Hello kalian!
- > 3. /route_kedua/ini_route_biasa
+ > 3. /route_kedua/ini_spesific_route
 	
 	Ini juga Hello world!
 > 4. a. /route_ketiga/foo bar
